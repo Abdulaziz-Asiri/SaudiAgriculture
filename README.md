@@ -1,4 +1,4 @@
-# Agriculture in Saudi Arabia: A Front-End Showcase
+#  A front-end project built using the Django framework.
 
 ### This project highlights the agricultural landscape of Saudi Arabia, focusing on the key crops the country exports. Discover the richness of Saudi agriculture and the variety of produce that contributes to its economy.
 <h3 align="left">Languages and Tools:</h3>
